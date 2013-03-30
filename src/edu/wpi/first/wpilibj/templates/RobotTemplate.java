@@ -1,4 +1,4 @@
-//Non-Threaded drive
+//Non-Threaded drive, no change for climbing logic yet
 package edu.wpi.first.wpilibj.templates;
 
 import edu.wpi.first.wpilibj.*;
